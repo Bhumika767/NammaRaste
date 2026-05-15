@@ -52,6 +52,30 @@ The application allows authorities and users to monitor damaged roads, track cri
 4. Run on Emulator or Android Device
 
 ---
+---
+
+## Project Screenshots
+
+### Splash Screen
+![Splash Screen](splash-screen-NammaRaste.jpg)
+
+### Dashboard Screen
+![Dashboard](dashbord-nammaRaste.jpg)
+
+### Road Directory
+![Road Directory](raod-director_namma-Raste.jpg)
+
+### Report Damage Screen
+![Report Screen](report-nammaRaste.jpg)
+
+### Map Location Display
+![Map Screen](Loaction-display-Map-NammaRaste.jpg)
+
+### Camera Capture Feature
+![Camera Capture](capture_photo-NammaRaste.jpg)
+
+### Submitted Reports
+![Submitted Reports](submitted-NammaRaste.jpg)
 
 ## APK
 
