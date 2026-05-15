@@ -73,7 +73,7 @@ The application allows authorities and users to monitor damaged roads, track cri
 ![Camera Capture](capture_photo-NammarRaste.jpeg)
 
 ### Submitted Reports
-![Submitted Reports](submitted-NammaRaste.jpeg)
+![Submitted Reports](submmited-NammaRaste.jpeg)
 
 ## APK
 
